@@ -16,17 +16,17 @@
 
 <h2>Exercises (Exercícios)</h2>
 
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex001/index.html" target="_blank">Exercise-001 | Exercício-001</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex002/index.html" target="_blank">Exercise-002 | Exercício-002</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex003/index.html" target="_blank">Exercise-003 | Exercício-003</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex004/index.html" target="_blank">Exercise-004 | Exercício-004</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex006/index.html" target="_blank">Exercise-006 | Exercício-006</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex008/index.html" target="_blank">Exercise-008 | Exercício-008</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex008b/index.html" target="_blank">Exercise-008b | Exercício-008b</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex009/index.html" target="_blank">Exercise-009 | Exercício-009</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex010/index.html" target="_blank">Exercise-010 | Exercício-010</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex011/index.html" target="_blank">Exercise-011 | Exercício-011</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex012/index.html" target="_blank">Exercise-012 | Exercício-012</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex013/index.html" target="_blank">Exercise-013 | Exercício-013</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex014/index.html" target="_blank">Exercise-014 | Exercício-014</a></p>
-<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex015/index.html" target="_blank">Exercise-015 | Exercício-015</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex001/index.html" target="_blank">Exercise-001 (Exercício-001)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex002/index.html" target="_blank">Exercise-002 (Exercício-002)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex003/index.html" target="_blank">Exercise-003 (Exercício-003)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex004/index.html" target="_blank">Exercise-004 (Exercício-004)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex006/index.html" target="_blank">Exercise-006 (Exercício-006)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex008/index.html" target="_blank">Exercise-008 (Exercício-008)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex008b/index.html" target="_blank">Exercise-008b (Exercício-008b)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex009/index.html" target="_blank">Exercise-009 (Exercício-009)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex010/index.html" target="_blank">Exercise-010 (Exercício-010)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex011/index.html" target="_blank">Exercise-011 (Exercício-011)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex012/index.html" target="_blank">Exercise-012 (Exercício-012)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex013/index.html" target="_blank">Exercise-013 (Exercício-013)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex014/index.html" target="_blank">Exercise-014 (Exercício-014)</a></p>
+<p><a href="https://mayramduarte.github.io/html-css-mmd-cv1/exercicios-mmd/ex015/index.html" target="_blank">Exercise-015 (Exercício-015)</a></p>
