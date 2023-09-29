@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vídeos Hospedados Localmente</title>
+  </head>
+  <body>
+    <h1>Inserindo Vídeos Hospedados Localmente</h1>
+    <p>Este vídeo está hospedado no meu próprio servidor</p>
+    <video width="560" height="315" poster="./imagens/london.jpg" controls>
+      <source src="./midias/London-720p.mp4" type="video/mp4" />
+      <source src="./midias/london-1080p.mp4" type="video/mp4" />
+      <source src="./midias/london-ogv.ogv" type="video/ogg" />
+    </video>
+    <h1>Inserindo Vídeos do YouTube</h1>
+    <p>Este vídeo está hospedado externamente no YouTube</p>
+    <iframe
+      width="560"
+      height="315"
+      src="https://www.youtube-nocookie.com/embed/PtWeqZsuzpE"
+      title="YouTube video player"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen
+    ></iframe>
+  </body>
+</html>
