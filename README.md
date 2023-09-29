@@ -6,9 +6,9 @@
 
 <h3> HTML5 and CSS3</h3>
 
-<p>Internet Story | How the Internet Works | How HTML and CSS Work | First Steps HTML | Characters, Paragraphs, and Line Breaks | Images and Favicon | Title Hierarchy | Text Formatting | HTML Lists | Links | Dynamic Images, Audios, and Videos | CSS Styles</p>
+<p>Internet Story . How the Internet Works . How HTML and CSS Work . First Steps HTML . Characters, Paragraphs, and Line Breaks . Images and Favicon . Title Hierarchy . Text Formatting . HTML Lists . Links . Dynamic Images, Audios, and Videos . CSS Styles</p>
 
-<p>História da Internet | Como Funciona a Internet | Como Funcionam HTML e CSS | Primeiros Passos HTML | Caracteres, Parágrafos e Quebras de Linha | Imagens e Favicon | Hierarquia de Títulos | Formatação de Textos | Listas HTML | Links | Imagens Dinâmicas, Áudios e Vídeos | Estilos CSS </p>
+<p>História da Internet . Como Funciona a Internet . Como Funcionam HTML e CSS . Primeiros Passos HTML . Caracteres, Parágrafos e Quebras de Linha . Imagens e Favicon . Hierarquia de Títulos . Formatação de Textos . Listas HTML . Links . Imagens Dinâmicas, Áudios e Vídeos . Estilos CSS </p>
 
 <h2>Challenges (Desafios)</h2>
 
