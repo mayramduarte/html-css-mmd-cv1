@@ -1,7 +1,9 @@
 # html-css-mmd-cv1
+
 <h1>Course HTML5 e CSS3 Módulo 1 - Curso em Vídeo - Gustavo Guanabara</h1>
 
 <h2>Topics (Conteúdo)</h2>
+
 <h3> HTML5 and CSS3</h3>
 
 <p>Internet Story | How the Internet Works | How HTML and CSS Work | First Steps HTML | Characters, Paragraphs, and Line Breaks | Images and Favicon | Title Hierarchy | Text Formatting | HTML Lists | Links | Dynamic Images, Audios, and Videos | CSS Styles</p>
