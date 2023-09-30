@@ -10,7 +10,7 @@
 
 <p>História da Internet. Como Funciona a Internet. Como Funciona HTML e CSS. Primeiros Passos HTML. Caracteres, Parágrafos e Quebras de Linha. Imagens e Favicon. Hierarquia de Títulos. Formatação de Textos. Listas HTML. Links. Imagens Dinâmicas, Áudios e Vídeos. Estilos CSS.</p>
 
-<h2>Challenges (Desafios)</h2>
+<h2>Projects (Projetos)</h2>
 
 <ul>
 <li><a href="https://mayramduarte.github.io/html-css-mmd-cv1/desafios-mmd/ds005/index.html" target="_blank">Challenge-005 (Desafio-005)</a></li>
