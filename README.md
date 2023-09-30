@@ -1,6 +1,6 @@
 # html-css-mmd-cv1
 
-<h1>Course HTML5 e CSS3 Módulo 1 - Curso em Vídeo - Gustavo Guanabara</h1>
+<h1>Course - HTML5 e CSS3 Módulo 1 - Curso em Vídeo - Gustavo Guanabara</h1>
 
 <h2>Topics (Conteúdo)</h2>
 
